@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1715626891 source:d:\repositories\unisa\cos2611_assessment1_project1\main.cpp
+	<iostream>
+	<fstream>
+	"stack_Type.cpp"
+
+1715628639 d:\repositories\unisa\cos2611_assessment1_project1\stack_type.h
+	"stack_ADT.h"
+
+1715628736 d:\repositories\unisa\cos2611_assessment1_project1\stack_adt.h
+	<iostream>
+	<cassert>
+
+1715628374 d:\repositories\unisa\cos2611_assessment1_project1\stack_type.cpp
+	"stack_Type.h"
+
+1715628736 source:d:\repositories\unisa\cos2611_assessment1_project1\stack_adt.h
+	<iostream>
+	<cassert>
+
+1715628639 source:d:\repositories\unisa\cos2611_assessment1_project1\stack_type.h
+	"stack_ADT.h"
+
